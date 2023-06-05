@@ -1,0 +1,10 @@
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\bin\Release\lab3.exe.config
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\bin\Release\lab3.exe
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\bin\Release\lab3.pdb
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.Form1.resources
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.Properties.Resources.resources
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.csproj.GenerateResource.cache
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.csproj.CoreCompileInputs.cache
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.exe
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.pdb
+C:\Users\dmerr\OneDrive\Рабочий стол\ЗИ\Lab3\lab3\lab3\obj\Release\lab3.csprojAssemblyReference.cache
